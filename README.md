@@ -23,3 +23,6 @@ Goto https://makerchip.com/ to complete the Steve Hoover RISC-V_MYTH_Workshop
 
 -- MYTH RISC-V CPU Waveform
 ![image](./images/Complete_MYTH_RISC-V_CPU_waveform.png)
+
+-- MYTH RISC-V CPU final code
+[Final pipelined RISC-V code](https://github.com/davidbroughsmyth/RISC-V-Myth/blob/main/lab7_pipelined-and-finished_riscv/Complete_MYTH_RISC-V_CPU.v)
