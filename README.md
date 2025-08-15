@@ -15,3 +15,11 @@ It has many tools including yosys, ABC, nextpnr, icestorm, iverilog, verilator, 
 
 #### Makerchip for the MYTH Workshop
 Goto https://makerchip.com/ to complete the Steve Hoover RISC-V_MYTH_Workshop
+
+### Completed MYTH RISC-V CPU
+
+-- MYTH RISC-V CPU Diagram
+![image](./images/Complete_MYTH_RISC-V_CPU_diagram.png)
+
+-- MYTH RISC-V CPU Waveform
+![image](./images/Complete_MYTH_RISC-V_CPU_waveform.png)
