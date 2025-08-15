@@ -5,7 +5,6 @@
 
 -- Run command
 ![image](../images/rv_labs_run.png)
-Coursework by https://www.vlsisystemdesign.com/
 
 -- GTK Waveform
 ![image](../images/rv_labs_gtkwave.png)
